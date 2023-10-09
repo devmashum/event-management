@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A 
 
-<i>Write your explanation here</i>
+<i>this will give us a empty string</i>
 
 </p>
 </details>
@@ -43,9 +43,9 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: D
 
-<i>Write your explanation here</i>
+<i>JS will nut count a string as a number</i>
 
 </p>
 </details>
@@ -69,9 +69,9 @@ console.log(food);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer:A
 
-<i>Write your explanation here</i>
+<i>const value</i>
 
 </p>
 </details>
@@ -94,9 +94,9 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: D
 
-<i>Write your explanation here</i>
+<i>the function is missing the required parameter</i>
 
 </p>
 </details>
@@ -122,7 +122,7 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
 <i>Write your explanation here</i>
 
